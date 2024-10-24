@@ -1,0 +1,27 @@
+*{
+    text-align: center;
+}
+html{
+    background-color: #ECDFCC;
+}
+video{
+    margin: 100px;
+    border: 10px solid #A5B68D;
+    border-radius: 10px;
+    background-color: whitesmoke;
+}
+.font-um{
+    font-family: Oxanium;
+    color: #A5B68D;
+}
+.box{
+    display: inline-block;
+    border: 3px solid #A5B68D;
+    border-radius: 10px;
+}
+.font-dois{
+    background-color: #FCFAEE;
+    color: #A5B68D;
+    font-family: Oswald;
+    border-radius: 10px;
+}
